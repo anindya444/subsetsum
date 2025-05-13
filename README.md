@@ -1,2 +1,0 @@
-# subsetsum
-subset sum
